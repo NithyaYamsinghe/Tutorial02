@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="ButtonOk">Ok</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="multiplyButton">*</string>
+    <string name="divisionButton">/</string>
+    <string name="to">To</string>
+    <string name="custom_toast_here">Custom Toast Here</string>
+    <string name="hello_world">Hello world</string>
+</resources>
